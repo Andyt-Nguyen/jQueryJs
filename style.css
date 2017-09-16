@@ -1,0 +1,39 @@
+.header {
+	height: 120px;
+	background: darkslategrey;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+
+.header h1 {
+	color: white;
+}
+
+#container {
+	width: 90%;
+	margin: auto;
+}
+
+.split3 {
+	display: flex;
+	/*border: 2px solid red;*/
+	justify-content: space-between;
+}
+
+.input {
+	width: 100%;
+	font-size: 30px;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+}
+
+.submit {
+	border: none;
+	text-align: center;
+	font-size: 25px;
+}
+
+.split__block {
+	text-align:center;
+}
