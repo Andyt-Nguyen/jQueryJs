@@ -36,4 +36,5 @@
 
 .split__block {
 	text-align:center;
+	flex:1;
 }
